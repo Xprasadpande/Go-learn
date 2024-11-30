@@ -63,11 +63,11 @@ func main() {
 	// height := 10
 
 	// if height <= 4 {
-	// 	fmt.Println("aap thick thak lambe ho")
+	// 	fmt.Println("")
 	// } else if height <= 5 {
-	// 	fmt.Println("aap lambe ho")
+	// 	fmt.Println("")
 	// } else {
-	// 	fmt.Println("aap thick ho")
+	// 	fmt.Println("")
 	// }
 
 }
